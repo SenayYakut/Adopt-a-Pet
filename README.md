@@ -6,7 +6,7 @@ Every time you navigate to a different webpage, your browser is making a request
 
 ## Installation
 
-### Create an environment
+Create an environment
 
 Create a project folder and a venv folder within:
 
@@ -16,7 +16,7 @@ cd myproject
 python3 -m venv myproject
 ```
 
-### Install Flask
+Install Flask
 
 Within the activated environment, install Flask:
 ```bash
