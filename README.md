@@ -11,8 +11,8 @@ Create an environment
 Create a project folder and a venv folder within:
 
 ```bash
-mkdir myproject
-cd myproject
+mkdir project
+cd project
 python3 -m venv project
 ```
 
@@ -29,7 +29,7 @@ source bin/activate
 ## Usage
 
 ```python
-
+import python
 
 ```
 
