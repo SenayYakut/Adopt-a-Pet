@@ -11,9 +11,9 @@ Create an environment
 Create a project folder and a venv folder within:
 
 ```bash
-mkdir myproject
-cd myproject
-python3 -m venv myproject
+mkdir project
+cd project
+python3 -m venv project
 ```
 
 Install Flask
@@ -22,10 +22,14 @@ Within the activated environment, install Flask:
 ```bash
 pip install Flask
 ```
+Activate the venv
+```bash
+source bin/activate
+```
 ## Usage
 
 ```python
-
+import python
 
 ```
 
