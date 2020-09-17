@@ -27,12 +27,13 @@ Activate the venv
 source bin/activate
 ```
 ## Usage
-
 ```python
-import python
-
+flask run
+http://localhost:5000/
+# Navigate through links of different animals
+# Choose the animal type you like
+# Click the link of animal in order to get more info about that particular animal  
 ```
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
